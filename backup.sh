@@ -1,5 +1,10 @@
 #!/bin/bash
 
+<< help
+This is a shell script to take backups
+can also be used with cron
+help
+
 src=$1
 dest=$2
 
